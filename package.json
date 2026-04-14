@@ -15,5 +15,10 @@
     "url": "https://github.com/ayushbahuguna006-ctrl/Prisma-Learning/issues"
   },
   "homepage": "https://github.com/ayushbahuguna006-ctrl/Prisma-Learning#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
 }
